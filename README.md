@@ -80,6 +80,3 @@ weather API integration and automated alerts.
 
 Your Name - Anuj Singh
 
-## 🔗 LinkedIn
-
-Add your LinkedIn profile or project post link here.
